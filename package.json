@@ -1,0 +1,30 @@
+{
+  "name": "to-do-list-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.1",
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.26",
+    "@types/react-dom": "18.0.10",
+    "axios": "^1.2.2",
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.3",
+    "next": "13.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "react-loading-icons": "^1.1.0",
+    "react-toastify": "^9.1.1",
+    "reactstrap": "^9.1.5",
+    "typescript": "4.9.4"
+  }
+}

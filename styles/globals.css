@@ -1,0 +1,32 @@
+html, body {
+    background-color: black !important;
+    color: white !important;
+}
+
+.shadow-success { 
+    box-shadow: 0 .5rem 1rem green!important;
+}
+
+.shadow-danger {
+    box-shadow: 0 .5rem 1rem red!important;
+}
+
+.shadow-primary {
+    box-shadow: 0 .5rem 1rem blue!important;
+}
+
+.shadow-light {
+    box-shadow: 0 .5rem 1rem white!important;
+}
+
+.drop:hover{
+    cursor: pointer;
+}
+
+.apontando{
+    font-weight: bold;
+    text-align: center;
+    background-color: green;
+    border-radius: 20px;
+    box-shadow: 2px -1px 17px green!important;
+}
