@@ -7,7 +7,13 @@ const ItemSchema = new mongoose.Schema({
     },
     descricao: {
         type: String,
-        required: true,
+        required: false,
+        defaul: ''
+    },
+    projetoId: {
+        type: String,
+        required: false,
+        default: ''
     },
     comentarios: [],
     tempo: {
